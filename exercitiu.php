@@ -525,7 +525,7 @@
 						</div>
 					</div>
 
-					<div class="containe-fluid">
+					<div class="container-fluid">
 						<div class="container">
 							<div id="demo2" class="carousel slide" data-ride="carousel">
 									  <ul class="carousel-indicators">
